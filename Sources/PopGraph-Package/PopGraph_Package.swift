@@ -1,3 +1,6 @@
-struct PopGraph_Package {
-    var text = "Hello, World!"
+public struct Popgraph_Package {
+    public private(set) var text = "Hello, World!"
+
+    public init() {
+    }
 }

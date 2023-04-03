@@ -1,2 +1,4 @@
-# Popgraph-Package
-A Swift Package for estimating population graph topologies from multivariate data.
+# Popgraph 
+
+A swift package for population graph analysis.
+
