@@ -1,11 +1,11 @@
 import XCTest
-@testable import Popgraph_Package
+@testable import PopGraph
 
-final class Popgraph_PackageTests: XCTestCase {
+final class PopGraphTests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(Popgraph_Package().text, "Hello, World!")
+        XCTAssertEqual(PopGraph().text, "Hello, World!")
     }
 }

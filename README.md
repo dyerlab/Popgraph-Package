@@ -1,4 +1,3 @@
-# Popgraph 
+# PopGraph
 
-A swift package for population graph analysis.
-
+A description of this package.
